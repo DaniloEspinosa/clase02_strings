@@ -172,4 +172,3 @@ console.log(convertir_nombre_cliente3(cliente3))
 console.log(convertir_nombre_cliente3(cliente4))
 console.log(convertir_nombre_cliente3(cliente))
 console.log(convertir_nombre_cliente3(cliente2))
-
